@@ -1,0 +1,7 @@
+.ContentWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  height: calc(100% - 34px - 63px);
+}
